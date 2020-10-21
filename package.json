@@ -1,5 +1,5 @@
 {
-  "name": "noctuidae-eslint-config",
+  "name": "@marknenadov/noctuidae-eslint-config",
   "version": "0.1.0",
   "description": "An opiniated, somewhat strict, yet reasonable eslint configuration.",
   "main": "index.js",

@@ -9,10 +9,10 @@ module.exports = {
         "plugin:react/recommended",
         "plugin:@typescript-eslint/recommended",
         "plugin:@typescript-eslint/eslint-recommended",
-        "./rules/react",
-        "./rules/variables",
-        "./rules/imports",
-        "./rules/spacing-and-tabs"
+        "./eslint-rules/react",
+        "./eslint-rules/variables",
+        "./eslint-rules/imports",
+        "./eslint-rules/spacing-and-tabs"
     ],
     parser: "@typescript-eslint/parser",
     parserOptions: {
