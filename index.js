@@ -40,6 +40,7 @@ module.exports = {
         "@typescript-eslint/ban-types": "warn",
         "@typescript-eslint/no-use-before-define": "warn",
         "@typescript-eslint/no-empty-function": "warn",
+        "no-underscore-dangle": "off",
         "no-empty": "warn",
         "indent": ["error", 4, { "SwitchCase": 1, "ignoredNodes": ["JSXElement"] }],
         "@typescript-eslint/indent": ["error", 4],
