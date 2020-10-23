@@ -27,8 +27,7 @@ module.exports = {
         "import/no-deprecated": "off",
         "import/no-duplicates": "error",
         "import/no-cycle": "warn",
-        "@typescript-eslint/ban-ts-ignore": "warn",
-        "@typescript-eslint/ban-ts-comment": "off", // covered by above
+        "@typescript-eslint/ban-ts-comment": "warn",
         "@typescript-eslint/consistent-type-assertions": "off",
         "@typescript-eslint/explicit-function-return-type": "off",
         "@typescript-eslint/no-empty-interface": "warn",

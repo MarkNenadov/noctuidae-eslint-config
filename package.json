@@ -1,6 +1,6 @@
 {
   "name": "@marknenadov/noctuidae-eslint-config",
-  "version": "0.1.4",
+  "version": "0.1.9",
   "description": "An opiniated, somewhat strict, yet reasonable eslint configuration.",
   "main": "index.js",
   "repository": {
