@@ -92,6 +92,7 @@ module.exports = {
         "prefer-const": "warn",
         "prefer-destructuring": "warn",
         "camelcase": "off",
+        "object-curly-newline": "off",
         "no-catch-shadow": "warn",
         "react/jsx-wrap-multilines": "off",
         "react/jsx-curly-brace-presence": "off",
