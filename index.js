@@ -17,6 +17,7 @@ module.exports = {
         "sourceType": "module"
     },
     rules: {
+        "linebreak-style": "off",
         "import/no-unresolved": "off",
         "import/prefer-default-export": "off",
         "import/extensions": ["warn", "never", { "svg": "always" }],
